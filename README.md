@@ -5,9 +5,7 @@ I'm currently pursuing a Master's in Artificial Intelligence, with a background 
 ---
 
 ### 🔭 Current Projects
-- Real-time analysis using computer vision
-- Interactive AI tools with practical, real-world impact
-- Exploring how machines learn to understand complex signals — from images to behavior
+- 100 Days of Deep Learning Papers Implementation
 
 ### 🌱 What I'm Learning
 - Deep learning and neural architectures
